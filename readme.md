@@ -1,0 +1,1 @@
+This is my "project" to help me get fammiliarized with the random number function in python. It is a very simple guessing game, with a lowest number and highest number that you can set. You get three attempts to guess the number. I proboly will never touch this project again, much less update it. 
